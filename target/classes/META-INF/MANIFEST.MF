@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: exporter
+Implementation-Version: 0.1.1
+Built-By: ykoss
+Implementation-Vendor-Id: io.youngkoss
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/exporter/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
